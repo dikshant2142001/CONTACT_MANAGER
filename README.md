@@ -2,3 +2,4 @@
 
 eg. like we noticed that the contact card which we made in the contact list made changes and made a new component out of it as contact card.
 
+Link to the deployed website - https://contact-manager-app-b26e0.web.app/
